@@ -16,6 +16,7 @@ Install the required libraries using the following:
 
 ```bash
 pip install opencv-python mediapipe pyautogui
+```
 ## Hand Gestures
 
 - **Thumb and Forefinger Pinch (Distance > 150):** Switch to the next tab (`Ctrl + Tab`).
